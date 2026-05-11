@@ -82,7 +82,6 @@ Challenges/
 ├── nodejs-assignment-1
 ├── Scroll Challenge
 ├── Verify Challenge
-└── Website Example
 ```
 
 ---
@@ -99,7 +98,7 @@ These notes are meant to support learning, not replace actual coding practice.
 
 ---
 
-## ⚠️ Important Note
+##  Important Note
 
 These notes and challenges represent my personal understanding while learning JavaScript and will continue evolving over time.
 
@@ -112,7 +111,7 @@ Huge respect and appreciation to:
 
 ---
 
-## 📈 Repository Status
+##  Repository Status
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-yellow)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
